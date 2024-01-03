@@ -1,16 +1,22 @@
-# animon
+# Animon
 
-A new Flutter project.
+## Kelompok 04
 
-## Getting Started
+Anggota Kelompok:
 
-This project is a starting point for a Flutter application.
+1. (12170501xx)
+2. (12170501xx)
+3. (12170501xx)
+4. (12170501xx)
 
-A few resources to get you started if this is your first Flutter project:
+## Link Pitch Deck
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[PPT - Pitch Deck]()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Link Demo
+
+[Demo Aplikasi]()
+
+## Link Aplikasi
+
+[Animon - PlayStore](https://play.google.com/store/apps/details?id=com.animon.animon&hl=id&gl=US)
