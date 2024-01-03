@@ -5,7 +5,7 @@
 Anggota Kelompok:
 
 1. Silvia Nurrobianti (1217050133)
-2. Pancadrya Yashoda Pasha (121705114)
+2. Pancadrya Yashoda Pasha (1217050114)
 3. Muhammad Syamil Hamami (1217050103)
 4. Muhammad Raihan Firdaus (1217050101)
 
