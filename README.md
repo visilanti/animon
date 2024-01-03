@@ -1,6 +1,6 @@
 # Animon
 
-## Kelompok 04
+## PAM C - Kelompok 04
 
 Anggota Kelompok:
 
