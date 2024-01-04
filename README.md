@@ -6,7 +6,7 @@ Anggota Kelompok:
 
 1. Silvia Nurrobianti (1217050133)
 2. Pancadrya Yashoda Pasha (1217050114)
-3. Muhammad Syamil Hamami (1217050103)
+3. Muhammad Syamil Hamami (1217050103) - [Pembahasan Coding](https://youtu.be/jYsWGTqwI3s)
 4. Muhammad Raihan Firdaus (1217050101)
 
 ## Link Pitch Deck
